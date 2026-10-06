@@ -1,0 +1,90 @@
+// give me a JSON prompt to represent TamilNadu's culture which includes 
+// Prouds Of Tamilnadu Tanjore Temple, Madurai Meenakshi amman Temple, Farmers, Women in half saree and sree and Mens in dhoti,
+// paddy fields with cow, women and men cooking for family
+{
+  "title": "Vibrant Cultural Heritage of Tamil Nadu",
+  "prompt": {
+    "theme": "A grand, authentic visual representation of Tamil Nadu's culture, heritage, traditions, people, agriculture, architecture, and family life",
+    "setting": "A beautiful panoramic Tamil Nadu village landscape blending iconic heritage monuments with traditional rural life",
+    "landmarks": [
+      {
+        "name": "Brihadeeswarar Temple",
+        "location": "Thanjavur",
+        "description": "Magnificent Tanjore temple with its iconic massive Chola-style vimana, detailed stone architecture and traditional South Indian heritage"
+      },
+      {
+        "name": "Meenakshi Amman Temple",
+        "location": "Madurai",
+        "description": "Majestic Madurai temple with colorful intricately carved gopurams representing Dravidian architecture"
+      }
+    ],
+    "people": [
+      {
+        "group": "Farmers",
+        "description": "Traditional Tamil farmers working happily in lush green paddy fields"
+      },
+      {
+        "group": "Women",
+        "description": "Tamil women wearing elegant traditional half-sarees and sarees, with jasmine flowers in their hair and traditional jewelry"
+      },
+      {
+        "group": "Men",
+        "description": "Tamil men wearing traditional white veshti/dhoti with shirts or angavastram"
+      }
+    ],
+    "agriculture": {
+      "description": "Beautiful green paddy fields stretching across the countryside",
+      "elements": [
+        "farmers planting and harvesting rice",
+        "traditional agricultural activities",
+        "water irrigation channels",
+        "a healthy native cow grazing near the paddy fields",
+        "palm and coconut trees",
+        "traditional village pathways"
+      ]
+    },
+    "family_life": {
+      "description": "A warm Tamil family preparing traditional food together at home",
+      "elements": [
+        "women cooking traditional Tamil food",
+        "men helping with household cooking",
+        "family members sitting together",
+        "traditional clay cooking vessels",
+        "wood-fired village kitchen",
+        "banana leaves",
+        "traditional South Indian dishes"
+      ]
+    },
+    "traditional_details": [
+      "Kolam at the entrance of a traditional Tamil house",
+      "brass lamps",
+      "earthen pots",
+      "banana leaves",
+      "jasmine flowers",
+      "coconut trees",
+      "bullock cart",
+      "traditional Tamil village houses",
+      "temple bells",
+      "festive decorations"
+    ],
+    "atmosphere": "Warm, joyful, peaceful, culturally rich, authentic Tamil Nadu atmosphere",
+    "time": "Golden morning sunlight transitioning into a warm evening glow",
+    "visual_style": "Highly detailed cinematic realism, authentic South Indian cultural aesthetics, natural skin tones, realistic clothing and architecture, vibrant but natural colors",
+    "composition": "Wide cinematic panoramic composition with the temples in the background, farmers and paddy fields in the middle ground, and Tamil families cooking and celebrating traditional life in the foreground",
+    "emotion": "Pride, unity, tradition, family, hard work, hospitality, and love for Tamil culture",
+    "quality": "Ultra-detailed, photorealistic, cinematic lighting, 8K quality, realistic textures, highly immersive cultural scene",
+    "avoid": [
+      "modern Western clothing",
+      "incorrect Indian architecture",
+      "incorrect Tamil traditional clothing",
+      "modern buildings",
+      "urban elements",
+      "text",
+      "logos",
+      "watermarks",
+      "distorted faces",
+      "extra fingers",
+      "anatomical errors"
+    ]
+  }
+}

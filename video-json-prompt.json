@@ -1,0 +1,124 @@
+// Create a Json Prompt for Akbar Beerbal  2minstory in tamil video generation. 
+// Give in a SCALE framework(subject, composition, Action, Location, esthetic)
+
+{
+  "title": "அக்பர் - பீர்பால் | புத்திசாலித்தனமான பதில்",
+  "duration": "20 seconds",
+  "language": "Tamil",
+  "video_type": "Short Moral Story",
+  "framework": "SCALE",
+
+  "SCALE": {
+    "Subject": {
+      "main_characters": [
+        {
+          "name": "அக்பர்",
+          "description": "முகலாய பேரரசர், கம்பீரமான தோற்றம், அரச உடை, கிரீடம் மற்றும் பாரம்பரிய நகைகள்"
+        },
+        {
+          "name": "பீர்பால்",
+          "description": "அறிவார்ந்த அமைச்சர், பாரம்பரிய முகலாய உடை, புத்திசாலித்தனமான மற்றும் அமைதியான முகபாவனை"
+        }
+      ],
+      "supporting_characters": "சில அரசவை அமைச்சர்கள்"
+    },
+
+    "Composition": {
+      "aspect_ratio": "16:9",
+      "visual_storytelling": "Fast-paced cinematic storytelling suitable for a 20-second short video",
+      "shots": [
+        {
+          "time": "0-5 seconds",
+          "shot": "Wide shot of the magnificent Mughal royal court with Akbar seated on his throne"
+        },
+        {
+          "time": "5-10 seconds",
+          "shot": "Medium close-up of Akbar asking Birbal a challenging question"
+        },
+        {
+          "time": "10-16 seconds",
+          "shot": "Close-up of Birbal smiling confidently and giving his clever answer"
+        },
+        {
+          "time": "16-20 seconds",
+          "shot": "Akbar smiles and appreciates Birbal while the court reacts with admiration"
+        }
+      ],
+      "camera": "Smooth cinematic camera movement, quick transitions, expressive close-ups"
+    },
+
+    "Action": {
+      "story": "அக்பர் பீர்பாலின் புத்திசாலித்தனத்தை சோதிக்க ஒரு கேள்வி கேட்கிறார்.",
+      "timeline": [
+        {
+          "time": "0-5 seconds",
+          "action": "அக்பர் அரசவையில் அமர்ந்து பீர்பாலை அழைக்கிறார்.",
+          "dialogue": "அக்பர்: 'பீர்பால்! உலகிலேயே வேகமானது எது?'"
+        },
+        {
+          "time": "5-10 seconds",
+          "action": "பீர்பால் அமைதியாக சிரித்து சிந்திக்கிறார்.",
+          "dialogue": "பீர்பால்: 'அரசே, மனிதனின் எண்ணங்கள்தான்!'"
+        },
+        {
+          "time": "10-16 seconds",
+          "action": "அரசவையினர் ஆச்சரியமாக பார்க்க, பீர்பால் தனது பதிலை விளக்குகிறார்.",
+          "dialogue": "பீர்பால்: 'அது ஒரு நொடியில் உலகின் எந்த இடத்திற்கும் சென்றுவிடும்!'"
+        },
+        {
+          "time": "16-20 seconds",
+          "action": "அக்பர் மகிழ்ச்சியுடன் சிரித்து பீர்பாலை பாராட்டுகிறார்.",
+          "dialogue": "அக்பர்: 'அருமை பீர்பால்!'"
+        }
+      ],
+      "moral": "அறிவின் வேகத்திற்கு எல்லையே இல்லை."
+    },
+
+    "Location": {
+      "setting": "16ஆம் நூற்றாண்டின் முகலாய அரசவை",
+      "environment": [
+        "பிரம்மாண்டமான முகலாய அரண்மனை",
+        "அலங்கரிக்கப்பட்ட அரச சிம்மாசனம்",
+        "பாரம்பரிய கம்பளங்கள்",
+        "அரசவை தூண்கள்",
+        "முகலாய கால அலங்காரங்கள்"
+      ],
+      "time_period": "16th century India"
+    },
+
+    "Esthetic": {
+      "visual_style": "Cinematic Indian historical animation",
+      "quality": "High-quality 3D animated storytelling",
+      "lighting": "Warm golden palace lighting",
+      "colors": "Rich royal and traditional Indian colors",
+      "character_style": "Expressive faces, natural gestures and consistent character appearance",
+      "mood": "Humorous, intelligent, engaging and family-friendly",
+      "music": "Light traditional Indian instrumental background music",
+      "sound_effects": [
+        "Subtle royal court ambience",
+        "Gentle transition sound",
+        "Light humorous sound when Birbal answers"
+      ],
+      "voice": {
+        "language": "Tamil",
+        "style": "Clear, expressive and engaging Tamil voices",
+        "akbar_voice": "Deep and authoritative",
+        "birbal_voice": "Calm, intelligent and confident"
+      }
+    }
+  },
+
+  "generation_constraints": {
+    "duration": "20 seconds",
+    "resolution": "1920x1080",
+    "aspect_ratio": "16:9",
+    "fps": 24,
+    "language": "Tamil",
+    "subtitles": "Tamil",
+    "character_consistency": true,
+    "scene_continuity": true,
+    "no_modern_objects": true,
+    "no_watermark": true,
+    "no_text_errors": true
+  }
+}
